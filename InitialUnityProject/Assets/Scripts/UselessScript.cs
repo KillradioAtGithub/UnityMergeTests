@@ -11,8 +11,7 @@ public class UselessScript : MonoBehaviour {
     {
         Debug.Log("You called Test, but this is useless !");
     }
-	
-	
+
 	public void Manger() {
 		// il a faim
 	}
